@@ -1,3 +1,5 @@
+[![Jekyll site CI](https://github.com/SOliv1/rewild-bootstrap-creative/actions/workflows/jekyll.yml/badge.svg)](https://github.com/SOliv1/rewild-bootstrap-creative/actions/workflows/jekyll.yml)
+
 # [Start Bootstrap - Creative](https://startbootstrap.com/theme/creative/)
 
 [Creative](https://startbootstrap.com/theme/creative/) is a one page, creative website theme built with [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
@@ -27,6 +29,8 @@ To begin using this template, choose one of the following options to get started
 ## Usage
 
 ### Basic Usage
+
+#### Sara Jane Oliver Note from me: I have modified this project to suit my own purposes because I like the clean, sophisticated and interactive layout.
 
 After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
