@@ -1,6 +1,7 @@
 [![Jekyll site CI](https://github.com/SOliv1/rewild-bootstrap-creative/actions/workflows/jekyll.yml/badge.svg)](https://github.com/SOliv1/rewild-bootstrap-creative/actions/workflows/jekyll.yml)
 [![Manual workflow](https://github.com/SOliv1/rewild-bootstrap-creative/actions/workflows/manual.yml/badge.svg)](https://github.com/SOliv1/rewild-bootstrap-creative/actions/workflows/manual.yml)
 [![Deno](https://github.com/SOliv1/rewild-bootstrap-creative/actions/workflows/deno.yml/badge.svg)](https://github.com/SOliv1/rewild-bootstrap-creative/actions/workflows/deno.yml)
+[![Manual workflow](https://github.com/SOliv1/rewild-bootstrap-creative/actions/workflows/manual.yml/badge.svg)](https://github.com/SOliv1/rewild-bootstrap-creative/actions/workflows/manual.yml)
 
 # [Start Bootstrap - Creative](https://startbootstrap.com/theme/creative/)
 
